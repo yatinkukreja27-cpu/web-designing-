@@ -37,8 +37,14 @@
 }
 button{
     color: rgb(253, 110, 7);
+     font-size:larger;
 }
 input{
      font-size:larger;
     color:  rgb(0, 0, 0) ;
+}
+.iamges{
+    border: 2px solid black;
+    background-color: beige;
+    text-align: center;
 }
